@@ -1,3 +1,4 @@
+//sample program to demonstrate class n object
 #include<iostream.h>
 #include<string.h>
 #include<conio.h>
